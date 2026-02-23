@@ -1,6 +1,6 @@
 {
-  "versionCode": 160,
-  "versionName": "1.6",
+  "versionCode": 161,
+  "versionName": "1.6.1",
   "url": "https://faustriel-glitch.github.io/prog-astreinte-opna/app-release.apk",
-  "changelog": "Correction de bugs et amélioration des performances."
+  "changelog": "Correction de bugs et amélioration des performances. modification du menu."
 }
